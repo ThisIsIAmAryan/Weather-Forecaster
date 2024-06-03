@@ -20,7 +20,7 @@ Welcome to the Weather Forecaster App! This application allows users to check th
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/YourUsername/Weather-Forecaster-App.git
+    git clone https://github.com/ThisIsIAmAryan/Weather-Forecaster-App.git
     cd Weather-Forecaster-App
     ```
 
